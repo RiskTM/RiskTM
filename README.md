@@ -6,7 +6,7 @@
 
 **`Digital Craftsman`**
 
-description in progress
+I am a university student that is very interested in all challenges with computeres. Currently I'm trying my hand at C and Haskell and am looking for as much experience as I can. If your interested send me a message.
 
 ### 🧰 Languages and Tools
 
