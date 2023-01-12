@@ -1,5 +1,3 @@
-![](bonfire.gif)
-
 <p align="center">
-![fire] (bonfire.gif)
+  <img src="bonfire.gif" alt="animated" />
 </p>
