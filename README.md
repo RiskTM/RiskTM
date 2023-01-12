@@ -1,3 +1,5 @@
-<div style="text-align: center;">
 ![](bonfire.gif)
-</div>
+
+<p align="center">
+![fire] (bonfire.gif)
+</p>
