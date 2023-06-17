@@ -18,9 +18,3 @@ I am a university student that is very interested in all challenges with compute
 ### 💻 Experience
 
 Currently I do not have experience outside of academic work, but this will soon change. I'll keep you posted.
-
-<p align="center">
-
-  <img src="bonfire.gif" alt="animated" />
-
-</p>
