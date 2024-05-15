@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I am a university student that is very interested in all challenges with computeres. Currently I'm programming mostly in Java and JavaScript and am looking for as much experience as I can. If your interested send me a message.
+I am a university student that is very interested in all challenges with computers. Currently I'm programming mostly in Java and JavaScript and am looking for as much experience as I can. If your interested send me a message.
 
 ### 🧰 Languages and Tools
 
